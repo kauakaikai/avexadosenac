@@ -252,7 +252,7 @@ a{
 
 .cards {
     width: 317px;
-    height: 640px;
+    height: 525px;
     background-color: #fff !important;
     margin: 10px;
     text-align: center;
@@ -260,7 +260,11 @@ a{
   }
   .btn {
     width: 150px;
+    height: 28px;
     margin-top: 8px;
+    background-color: #FAB12F;
+    border-radius: 5px;
+    cursor: pointer;
   }
   .gallery {
     border: 1px solid #ccc;
@@ -327,5 +331,16 @@ a{
     border: 1px solid #ced4da;
     border-radius: .25rem;
     transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+}
+
+.botao-mais {
+    width: 150px;
+    height: 45px;
+    position: absolute;
+    cursor: pointer;
+    margin-top: 570px;
+    margin-left: 585px;
+    background-color: #FAB12F;
+    border-radius: 5px;
 }
   /* Kauã Novo */
