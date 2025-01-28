@@ -269,7 +269,7 @@ a{
   .gallery {
     border: 1px solid #ccc;
     border-radius: 20px 20px 0px 0px;
-    width: 100%;
+    width: 313px;
     height: 180px;
   }
   
@@ -285,7 +285,7 @@ a{
   }
   .gallery-2{
     position: absolute;
-    transform: translate(-60px, -95px);
+    transform: translate(-220px, 100px);
    }
    .card-title{
     padding: 35px 0px 0px 0px;
